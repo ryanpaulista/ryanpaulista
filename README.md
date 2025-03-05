@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanpaulista&show_icons=true&hide=prs,stars&theme=radical" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ryanpaulista&show_icons=true&hide=prs,stars&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpaulista&layout=compact&theme=radical" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpaulista&layout=compact&theme=radical" />
 </a>
 <!--
 **ryanpaulista/ryanpaulista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
