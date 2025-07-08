@@ -7,7 +7,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpaulista&layout=compact&theme=radical" />
 </a>
 
----
+## Skills
 
 <div style="padding-top: 2em">
   <img src="./icons/Java-Dark.svg" width="48" />
