@@ -1,34 +1,23 @@
-## ⏳ Ryan Paulista 
+## ⏳ Ryan Paulista
 
-
+<center>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=ryanpaulista&show_icons=true&hide=prs,stars&theme=radical" />
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpaulista&layout=compact&theme=radical" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanpaulista&layout=compact&theme=radical" style="padding-left: 2em"/>
 </a>
 
 ---
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-<!--
-**ryanpaulista/ryanpaulista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="padding-top: 2em">
+<img src="./icons/Java-Dark.svg" width="48">
+<img src="./icons/Github-Dark.svg" width="48">
+<img src="./icons/Git.svg" width="48">
+<img src="./icons/Figma-Dark.svg" width="48">
+<img src="./icons/HTML.svg" width="48">
+<img src="./icons/CSS.svg" width="48">
+<img src="./icons/JavaScript.svg" width="48">
+<img src="./icons/CPP.svg" width="48">
+<img src="./icons/NodeJS-Dark.svg" width="48">
+<img src="./icons/Python-Dark.svg" width="48">
+<div>
+</center>
