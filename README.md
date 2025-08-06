@@ -8,16 +8,16 @@
 
 <div align="center">
     <img src="./icons/Python-Dark.svg" width="48" />
-    <img src="./icons/Java-Dark.svg" width="48">
     <img src="./icons/JavaScript.svg" width="48" />
+    <img src="./icons/Django.svg" width="48" />
     <img src="./icons/NodeJS-Dark.svg" width="48" />
     <img src="./icons/React-Dark.svg" width="48" />
     <img src="./icons/Github-Dark.svg" width="48" />
     <img src="./icons/Git.svg" width="48" />
-    <img src="./icons/Figma-Dark.svg" width="48" />
     <img src="./icons/HTML.svg" width="48" />
     <img src="./icons/CSS.svg" width="48" />
     <img src="./icons/CPP.svg" width="48" />
+    <img src="./icons/Java-Dark.svg" width="48">
 </div>
 
 
