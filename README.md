@@ -4,9 +4,13 @@
     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c552be39-25aa-4f5a-8421-54aa11f7131f" width="300">
 </div> 
 
-Técnico em Informática pelo IFRN e Cursando Análise e Desenvolvimento de Sistemas pelo IFRN
+# 
 
-## 
+<div align="center">
+    Técnico em Informática pelo IFRN e estudante de Análise e Desenvolvimento de Sistemas pelo IFRN
+</div>
+
+#
 
 <div align="center">
     <img src="./icons/Python-Dark.svg" width="48" />
