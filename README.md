@@ -16,7 +16,7 @@
     <img src="./icons/Python-Dark.svg" width="48" />
     <img src="./icons/JavaScript.svg" width="48" />
     <img src="./icons/Django.svg" width="48" />
-    <img src="./icons/Vue.svg" width="48" />
+    <img src="./icons/VueJS-Dark.svg" width="48" />
     <img src="./icons/React-Dark.svg" width="48" />
     <img src="./icons/Github-Dark.svg" width="48" />
     <img src="./icons/Git.svg" width="48" />
